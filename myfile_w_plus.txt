@@ -1,0 +1,2 @@
+This file was created with w+ mode.
+We can write to it and read from it.
