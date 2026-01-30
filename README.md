@@ -1,10 +1,10 @@
-Python Programming Repository
-Overview
+**Python Programming Repository**
+**Overview**
 
 This repository contains comprehensive Python practice programs and mini-projects covering core Python fundamentals to advanced topics. The code is organized in a structured learning path and focuses on practical implementation, real-world use cases, and automation.
 
-Key Topics Covered
-Python Fundamentals
+**Key Topics Covered**
+**Python Fundamentals**
 
 Python object and data structure basics
 
@@ -14,7 +14,7 @@ Lists, tuples, sets, and dictionaries
 
 Boolean logic and comparison operators
 
-Control Flow and Functions
+**Control Flow and Functions**
 
 Conditional statements (if, else, elif)
 
@@ -28,7 +28,7 @@ Scope and namespace (LEGB)
 
 Lambda, map, and filter functions
 
-Object-Oriented Programming
+**Object-Oriented Programming**
 
 Classes and objects
 
@@ -40,7 +40,7 @@ Special (dunder) methods
 
 Real-world OOP examples
 
-Modules and Packages
+**Modules and Packages**
 
 Creating and using modules
 
@@ -50,7 +50,7 @@ __main__ usage
 
 Nested imports and sub-packages
 
-Error and Exception Handling
+**Error and Exception Handling**
 
 Try-except-else-finally blocks
 
@@ -58,7 +58,7 @@ Custom exception handling
 
 Debugging techniques
 
-Decorators and Advanced Functions
+**Decorators and Advanced Functions**
 
 Functions as first-class objects
 
@@ -66,7 +66,7 @@ Nested functions
 
 Decorators using @ syntax
 
-Generators and Iterators
+**Generators and Iterators**
 
 Generator functions using yield
 
@@ -74,7 +74,7 @@ Custom iterators
 
 Memory-efficient data processing
 
-Advanced Python Modules
+**Advanced Python Modules**
 
 datetime
 
@@ -88,7 +88,7 @@ Debugging with pdb
 
 Zip file handling
 
-Web Scraping with Python
+**Web Scraping with Python**
 
 HTTP requests using requests
 
@@ -102,7 +102,7 @@ Pagination handling
 
 Image downloading
 
-Working with Images
+**Working with Images**
 
 Image opening and inspection
 
@@ -114,7 +114,7 @@ Image masking and overlays
 
 Saving modified images
 
-Working with PDFs and Spreadsheets
+**Working with PDFs and Spreadsheets**
 CSV Handling
 
 Reading CSV files
@@ -135,7 +135,7 @@ Creating new PDF files
 
 Splitting and copying PDF pages
 
-Emails with Python
+**Emails with Python**
 Sending Emails (SMTP)
 
 Gmail SMTP connection
@@ -158,7 +158,7 @@ Extracting headers and email body
 
 Handling plain text and HTML emails
 
-Milestone Project
+**Milestone Project**
 
 Tic Tac Toe game
 
@@ -168,7 +168,7 @@ Input validation
 
 Win and tie detection
 
-Testing and Debugging
+**Testing and Debugging**
 
 Unit testing using unittest
 
@@ -176,7 +176,7 @@ String utility test cases
 
 Exception handling demonstrations
 
-Repository Structure
+**Repository Structure**
 01- Python Object and Data Structure Basics
 02- Python Comparison Operators
 03- Python Control Flow Statements
@@ -193,7 +193,7 @@ Repository Structure
 14- Working with Pdf and Spreadsheets
 15- Emails with Python
 
-Technologies Used
+**Technologies Used**
 
 Python 3
 
