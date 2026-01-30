@@ -176,23 +176,6 @@ String utility test cases
 
 Exception handling demonstrations
 
-**Repository Structure**
-01- Python Object and Data Structure Basics
-02- Python Comparison Operators
-03- Python Control Flow Statements
-04- Methods and Functions
-05- Milestone Project-1
-06- Object Oriented Programming
-07- Modules and Packages
-08- Errors and Exceptions Handling
-09- Python Decorators
-10- Python Generators
-11- Advanced Python Modules
-12- Web Scraping with Python
-13- Working with Images
-14- Working with Pdf and Spreadsheets
-15- Emails with Python
-
 **Technologies Used**
 
 Python 3
